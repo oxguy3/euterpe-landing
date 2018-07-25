@@ -1,5 +1,6 @@
 # euterpe-landing
 A landing page for my home server.
+![screenshot](https://i.imgur.com/XuVbCkl.png)
 
 ## Installation
 To install it, just download the contents of this repository with the green "Clone or download" button up there^^, and put it in your server's public HTML directory. You'll need to already have a web server like Apache or Nginx installed.
